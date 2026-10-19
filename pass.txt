@@ -1,0 +1,12 @@
+🌐 Các đường link truy cập:
+Trang web bán hàng (cho khách xem & mua đồ): 👉 http://localhost:8080
+
+Trang đăng nhập (Login): 👉 http://localhost:8080/login/index.php
+
+Nhập tài khoản: hoang (hoặc tên admin bạn vừa đổi)
+Mật khẩu: 123 (hoặc mật khẩu bạn vừa đổi)
+Trang Quản trị Admin Dashboard: 👉 http://localhost:8080/admin/
+
+Quản lý danh sách người dùng: http://localhost:8080/admin/users.php
+Quản lý sản phẩm: http://localhost:8080/admin/products.php
+Quản lý đơn hàng: http://localhost:8080/admin/orders.php
